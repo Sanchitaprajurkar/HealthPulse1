@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../Navbar/navbar";
+import Navbar from "../Navbar/Navbar";
 import Lottie from "lottie-react";
 import heartAnim from "../../assets/const.json";
 
